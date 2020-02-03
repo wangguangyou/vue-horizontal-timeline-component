@@ -30,9 +30,9 @@ vue横向时间轴，可支持拖拽、滚动的
 ## Install
 
 ```sh
-yarn add @wangguangyou/vue-horizontal-timeline-component
+yarn add @needahouse/vue-horizontal-timeline-component
 
-npm i @wangguangyou/vue-horizontal-timeline-component
+npm i @needahouse/vue-horizontal-timeline-component
 ```
 [⬆ Back to Top](#table-of-contents)
 
