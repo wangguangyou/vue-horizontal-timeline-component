@@ -21,6 +21,7 @@
 </template>
 
 <script>
+
   const data = [
     {id:11,content:'魏',time:'220～265（45年）'},
     {id:12,content:'蜀',time:'221～263（42年）'},

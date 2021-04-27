@@ -1,11 +1,7 @@
 # vue-horizontal-timeline-component
 
-[![NPM Version](https://badge.fury.io/js/%40needahouse%2Fvue-horizontal-timeline-component.svg)](https://www.npmjs.com/package/@needahouse/vue-horizontal-timeline-component)
-[![NPM License](https://badgen.net/npm/license/@needahouse/vue-horizontal-timeline-component)](https://github.com/wangguangyou/vue-horizontal-timeline-component/blob/master/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/wangguangyou/vue-horizontal-timeline-component/pulls)
-[![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
 
-vue横向时间轴，可支持拖拽、滚动的
+vue横向时间轴，可支持拖拽、滚动的 [docs & demo](https://wangguangyou.github.io/vue-horizontal-timeline-component/)
 
 ![vue-horizontal-timeline-component.gif](https://i.loli.net/2020/02/03/WyCkt1xTQMPq7NU.gif)
 
@@ -13,9 +9,6 @@ vue横向时间轴，可支持拖拽、滚动的
 
 - [Features](#features)
 - [Install](#install)
-- [Links](#links)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 ## Features
@@ -33,17 +26,7 @@ vue横向时间轴，可支持拖拽、滚动的
 yarn add @needahouse/vue-horizontal-timeline-component
 
 npm i @needahouse/vue-horizontal-timeline-component
+
+import horizontalTimeline from '@needahouse/vue-horizontal-timeline-component'
 ```
-[⬆ Back to Top](#table-of-contents)
-
-## Links
-
-- [docs](https://wangguangyou.github.io/vue-horizontal-timeline-component/)
-
-[⬆ Back to Top](#table-of-contents)
-
-## License
-
-[MIT](./LICENSE)
-
 [⬆ Back to Top](#table-of-contents)
