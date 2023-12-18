@@ -27,6 +27,9 @@ yarn add @needahouse/vue-horizontal-timeline-component
 
 npm i @needahouse/vue-horizontal-timeline-component
 
-import horizontalTimeline from '@needahouse/vue-horizontal-timeline-component'
+import HorizontalTimeline from '@needahouse/vue-horizontal-timeline-component'
+or
+import HorizontalTimeline from "@needahouse/vue-horizontal-timeline-component/src/vue-horizontal-timeline-component.vue";
+
 ```
 [⬆ Back to Top](#table-of-contents)
