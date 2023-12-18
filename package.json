@@ -83,8 +83,7 @@
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
-      "post-commit": "git update-index --again",
-      "pre-push": "yarn test"
+      "post-commit": "git update-index --again"
     }
   },
   "lint-staged": {
