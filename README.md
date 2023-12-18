@@ -1,7 +1,7 @@
 # vue-horizontal-timeline-component
 
 
-vue横向时间轴，可支持拖拽、滚动的 [docs & demo](https://wangguangyou.github.io/vue-horizontal-timeline-component/)
+vue2、vue3横向时间轴，可支持拖拽、滚动的 [docs & demo](https://wangguangyou.github.io/vue-horizontal-timeline-component/)
 
 ![vue-horizontal-timeline-component.gif](https://i.loli.net/2020/02/03/WyCkt1xTQMPq7NU.gif)
 
