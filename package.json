@@ -1,6 +1,6 @@
 {
   "name": "@needahouse/vue-horizontal-timeline-component",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "",
   "author": "https://github.com/wangguangyou",
   "license": "MIT",
@@ -17,7 +17,8 @@
   ],
   "files": [
     "src",
-    "dist"
+    "dist",
+    "README.md"
   ],
   "main": "dist/vue-horizontal-timeline-component.umd.js",
   "module": "dist/vue-horizontal-timeline-component.esm.js",

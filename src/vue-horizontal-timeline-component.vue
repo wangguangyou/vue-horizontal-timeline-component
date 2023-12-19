@@ -179,7 +179,7 @@
     },
     computed: {
       offset() {
-        return MouseMove.offset
+        return this.MouseMove.offset
       },
       hasData() {
         return this.timelineList && this.timelineList.length
